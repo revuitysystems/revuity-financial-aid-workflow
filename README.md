@@ -2,7 +2,7 @@
 
 **A free Claude workflow plugin by [Revuity Systems](https://revuitysystems.com).**
 
-<img src="assets/icon-256.png" alt="Financial Aid Office Workflow plugin icon" width="128" height="128">
+![Financial Aid Office Workflow plugin icon](assets/icon-128.png)
 
 A free Claude plugin for organizing recurring financial aid office work without replacing institutional judgment. It helps authorized staff structure case review, queue management, missing-information follow-up, student communication drafts, verification preparation, appeals, professional-judgment preparation, loan-processing checklists, reconciliation preparation, and recurring office reviews.
 
@@ -13,7 +13,7 @@ A free Claude plugin for organizing recurring financial aid office work without 
 
 ## Plugin icon
 
-The icon is stored at `assets/icon.png`, with 512, 256, and 128 pixel versions alongside it. The manifest references it with the `icon` field, which Anthropic's directory reads for the plugin listing and Claude Code ignores at load time.
+The plugin icon ships in the assets folder in 512, 256, and 128 pixel versions. The manifest references it with the icon field, which Anthropic's directory reads for the plugin listing and Claude Code ignores at load time.
 
 ## Good for
 
