@@ -1,5 +1,6 @@
 {
   "name": "financial-aid-office",
+  "displayName": "Financial Aid Office Workflow",
   "version": "1.0.0",
   "description": "Financial aid office workflow support for case review, missing-information follow-up, queues, exceptions, student communications, and operational reviews.",
   "author": {
