@@ -1,0 +1,20 @@
+{
+  "name": "financial-aid-office",
+  "version": "1.0.0",
+  "description": "Financial aid office workflow support for case review, missing-information follow-up, queues, exceptions, student communications, and operational reviews.",
+  "author": {
+    "name": "Revuity Systems",
+    "email": "info@revuitysystems.com",
+    "url": "https://revuitysystems.com"
+  },
+  "homepage": "https://revuitysystems.com",
+  "license": "MIT",
+  "keywords": [
+    "financial-aid",
+    "higher-education",
+    "operations",
+    "workflow",
+    "revuity"
+  ],
+  "repository": "https://github.com/revuitysystems/revuity-financial-aid-workflow"
+}
