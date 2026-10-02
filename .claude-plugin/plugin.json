@@ -16,5 +16,6 @@
     "workflow",
     "revuity"
   ],
-  "repository": "https://github.com/revuitysystems/revuity-financial-aid-workflow"
+  "repository": "https://github.com/revuitysystems/revuity-financial-aid-workflow",
+  "icon": "./assets/icon.png"
 }
